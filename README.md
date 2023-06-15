@@ -1,58 +1,58 @@
 
 
 <h1 align="center">
-     <a href="#" alt="Clone do Spotify"> Clone do Spotify </a>
+     <a href="#" alt="Clone do Spotify">Spotify Clone</a>
 </h1>
 
 <h4 align="center">
-	🚧   Concluído 🚀 🚧
+	🚧   Done 🚀 🚧
 </h4>
 
-## 💻 Sobre o projeto
+## 💻 About the project
 
-Clone do spotify para treinar Tailwind CSS
+spotify clone to train Tailwind CSS
 
 ---
 
-## 🚀 Como executar o projeto
+## 🚀 How to run the project
 
-### Pré-requisitos
+### Prerequisites
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+Before you begin, you will need to have installed on your machine the following tools:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Also, it's good to have an editor to work with the code, such as: [VSCode](https://code.visualstudio.com/)
 
-#### 🧭 Rodando a aplicação web (Frontend)
+#### 🧭 Running the web application (Frontend)
 
 ```bash
 
-# Clone este repositório
+# Clone repo
 $ git clone https://github.com/Artur-Poffo/spotify-clone
 
-# Acesse a pasta do projeto no seu terminal/cmd
+# Access the project folder in your terminal/cmd
 $ cd spotify-clone
 
-# Instale as dependências
+# Install deps
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
+# Run the application in development mode
 $ npm run dev
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+#  The application will open at the door:3000 - access http://localhost:3000
 
 ```
 
 ---
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in the construction of the project:
 
 ([Next.js](https://nextjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[Tailwind CSS](https://tailwindcss.com/)**
 
-## 🦸 Autor
+## 🦸 Author
 
 <p>
 <img style="border-radius: 50%;" src="https://github.com/Artur-Poffo.png" width="100px;" alt=""/>
