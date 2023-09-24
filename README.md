@@ -19,7 +19,7 @@ spotify clone to train Tailwind CSS
 ### Prerequisites
 
 Before you begin, you will need to have installed on your machine the following tools:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) and the [pnpm](https://pnpm.io) package manager. 
 Also, it's good to have an editor to work with the code, such as: [VSCode](https://code.visualstudio.com/)
 
 #### 🧭 Running the web application (Frontend)
@@ -33,10 +33,10 @@ $ git clone https://github.com/Artur-Poffo/spotify-clone
 $ cd spotify-clone
 
 # Install deps
-$ npm install
+$ pnpm install
 
 # Run the application in development mode
-$ npm run dev
+$ pnpm dev
 
 #  The application will open at the door:3000 - access http://localhost:3000
 
